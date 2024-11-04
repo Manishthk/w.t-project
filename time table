@@ -1,0 +1,80 @@
+<html>
+<head>
+<html>
+<head>
+<body>
+<center>
+<h3>Time table</h3>
+<table width="8" border="8" cellspacing="9">
+<tr>
+<th>weekdays/time</th>
+<th>8:50-9:40</th>
+<th>9:40-10:30</th>
+<th>10:30-11:20</th>
+<th>11:20-12:10</th>
+<th>12:10-1:00</th>
+<th>1:00-1:50</th>
+<th>1:50-2:40</th>
+
+<tr>
+<td>monday</td>
+<td>maths</td>
+<td>wt</td>
+<td>iks</td>
+<td>cdc</td>
+<td rowspan="6">break</td>
+<td>dbms</td>
+<td>cdc</td>
+
+
+<tr> 
+<td<font color="purple">tuesday</font></td>
+<td>iks</td>
+<td>sgd</td>
+<td>itpc</td>
+<td>sgd</td>
+<td>wt</td>
+<td>maths</td>
+
+
+<tr>
+<td><font color="green">wednesday</font></td>
+<td>sgd</td>
+<td>maths</td>
+<td>iks</td>
+<td>wt</td>
+<td>wt</td>
+<td>iks</td>
+
+<tr>
+<td><font color="yellow">thrusday</font></td>
+<td>cdc</td>
+<td>dbms</td>
+<td>maths</td>
+<td>cdc</td>
+<td>itpc</td>
+<td>cdc</td>
+
+
+<tr>
+<td><font color="red">friday</font></td>
+<td>maths</td>
+<td>wt</td>
+<td>iks</td>
+<td>cdc</td>
+<td rowspan="6">break</td>
+<td>dbms</td>
+
+
+
+
+
+
+
+
+
+
+
+</head>
+</body>
+</html>
